@@ -6,6 +6,19 @@ NVDA dictionaries to fix the way RHVoice pronounces many words.
 
 Paste the speechDicts folder from this repository into your NVDA configuration folder, and restart NVDA.
 
+## Supported voices.
+
+**Note**: Currently, these dictionaries only support English voices.
+
+The following voices are currently supported:
+
+* Alan
+* Bdl
+* Clb
+* Evgeniy-Eng
+* Lyubov
+* Slt
+
 ## Contributing.
 
 Currently, each voice has its own dictionary file. This is because NVDA doesn't let us have dictionaries for specific synth drivers, and also, certain voices might break the hack used to make it speak correctly for other voices (e.g. Evgeniy-Eng broke the saying of the name Jaylin that was used for other voices, so we had to change it in that dictionary file alone). 
