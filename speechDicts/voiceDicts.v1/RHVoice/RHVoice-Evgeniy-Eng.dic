@@ -3,6 +3,10 @@ Kylie	Kylee	0	2
 #Name of the Mewvinerse system
 Mewvinerse	Mewvahnerse	0	2
 #One spelling of the English name jaylin
-Jaylin	Jhaylen	0	2
+Jaylin	Jhaylin	0	2
 #Another spelling of the English name Jaelyn
-Jaelyn	Jhaylen	0	2
+Jaelyn	Jhaelyn	0	2
+#A mathmatical integer
+Integer	Intijer	0	2
+#Gibberish (or a string of Nonsensical characters/words)
+Gibberish	jibberish	0	2
