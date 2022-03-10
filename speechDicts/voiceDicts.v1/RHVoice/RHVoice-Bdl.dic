@@ -22,3 +22,5 @@ espeak	ESpeak	0	2
 Toolbar	Tool Bar	0	2
 #The English word Mic, commonly short for Microphone
 Mic	Mike	0	2
+#The English word verbose
+Verbose	Verboce	0	2
